@@ -1,6 +1,6 @@
-# Hi! Nice to see you 🤘🏻
+# 🤘🏻 Hi, Nice to see you!
 
-Welcome to my page! I'm Maksim Bazdrev, a student at BMSTU (Bauman Moscow State Technical University). I'm interested in machine learning, deep learning, natural language processing, computer vision, and recommender systems.
+Welcome to my page! I'm Maksim Bazdrev, a student at BMSTU (Bauman Moscow State Technical University). I'm interested in ML, DL, NLP, CV, RecSys and Data Science, Analytics in general.
 
 My main programming language is Python, which I use for machine learning and data science. I'm familiar with both classical methods (linear and logistic regression, gradient boosting, KNN, Random Forest, naive Bayes, etc.) and deep learning models. I use Google Colab and other tools to train models. I've also participated in Kaggle competitions.
 
