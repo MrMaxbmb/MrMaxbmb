@@ -44,28 +44,49 @@ My main technologies and libraries:
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 
-## 📊 Skills (Progress Bar)
+## 🤺 Skills (Progress Bar)
 
 ### Python
-![Python Progress](https://img.shields.io/badge/Python-90%25-green?style=flat-square)
+![Python Progress](https://img.shields.io/badge/Python-90%25-green?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
 
 ### Machine Learning
-![ML Progress](https://img.shields.io/badge/ML-85%25-yellow?style=flat-square)
+![ML Progress](https://img.shields.io/badge/Machine%20Learning-85%25-yellow?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
 
 ### Deep Learning
-![DL Progress](https://img.shields.io/badge/DL-80%25-orange?style=flat-square)
+![DL Progress](https://img.shields.io/badge/Deep%20Learning-80%25-orange?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C)
 
 ### SQL
-![SQL Progress](https://img.shields.io/badge/SQL-75%25-red?style=flat-square)
+![SQL Progress](https://img.shields.io/badge/SQL-75%25-red?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4479A1)
+
+### Data Visualization
+![Viz Progress](https://img.shields.io/badge/Data%20Viz-88%25-blue?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=11557C)
+
+### Web Development
+![Web Progress](https://img.shields.io/badge/Web%20Dev-70%25-purple?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMaxbmb&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMaxbmb&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMaxbmb&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMaxbmb&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrMaxbmb&theme=radical&hide_border=true)
+
+## 🔥 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrMaxbmb&theme=radical&hide_border=true)
+
+## 🎯 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 🏆 Achievements
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=MrMaxbmb&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
 
 ## 🌍 Where to find me
 
-[Telegram](https://t.me/@maxbmb) [Email](mailto:bazdrev.max@mail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@maxbmb) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bazdrev.max@mail.com)
 
 This README is updated automatically! Last refresh: September 19, 2025
