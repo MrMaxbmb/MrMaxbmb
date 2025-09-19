@@ -70,7 +70,7 @@ My main technologies and libraries:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMaxbmb&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrMaxbmb&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MrMaxbmb&theme=radical&hide_border=true)
 
 ## 🔥 Activity Graph
 
