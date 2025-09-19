@@ -65,7 +65,7 @@ My main programming language is Python, which I use for machine learning and dat
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ### Miscellaneous Tools
-![Weeek](https://img.shields.io/badge/-Weeek-800080?style=flat-square&labelColor=white)
+![WEEEK](https://img.shields.io/badge/-WEEEK-white?style=flat-square&labelColor=9370DB)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-050038?style=flat-square&logo=miro&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?style=flat-square&logo=draw.io&logoColor=white)
