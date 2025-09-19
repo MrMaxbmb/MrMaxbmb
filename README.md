@@ -64,23 +64,7 @@ My main technologies and libraries:
 ### Web Development
 ![Web Progress](https://img.shields.io/badge/Web%20Dev-70%25-purple?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
 
-## 📈 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=MrMaxbmb&color=blueviolet&style=for-the-badge)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMaxbmb&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMaxbmb&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-## 🔥 Custom Activity Graph
-
-Create your own activity graph using [Profile Activity Generator](https://omidnikrah.github.io/profile-activity-generator/)!
-
-<!-- Replace with your custom SVG -->
-![Custom Activity](https://raw.githubusercontent.com/MrMaxbmb/MrMaxbmb/main/custom-activity.svg)
-
-*Thanks for visiting! 🚀*
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMaxbmb&layout=compact&theme=dracula&hide_border=true&langs_count=8)
 
 ## 🌍 Where to find me
 
