@@ -1,4 +1,4 @@
-# 👋 Hi! Nice to see you.
+# Hi! Nice to see you 🤘🏻
 
 Welcome to my page! I'm Maksim Bazdrev, a student at BMSTU (Bauman Moscow State Technical University). I'm interested in machine learning, deep learning, natural language processing, computer vision, and recommender systems.
 
@@ -22,8 +22,6 @@ My main technologies and libraries:
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NLTK](https://img.shields.io/badge/-NLTK-FFD43B?style=flat-square&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
