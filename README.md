@@ -66,24 +66,54 @@ My main technologies and libraries:
 
 ## 📈 GitHub Stats
 
+![Profile Views](https://komarev.com/ghpvc/?username=MrMaxbmb&color=blueviolet&style=for-the-badge)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMaxbmb&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMaxbmb&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MrMaxbmb&theme=radical&hide_border=true)
+## 🔥 Activity & Fun
 
-## 🔥 Activity Graph
+![Snake Game](https://raw.githubusercontent.com/MrMaxbmb/MrMaxbmb/output/snake.svg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrMaxbmb&theme=radical&hide_border=true)
+## 🎯 Currently Working On
 
-## 🎯 Recent Activity
+- 🚀 Building ML models for real-world problems
+- 📚 Learning advanced Deep Learning techniques
+- 🛠️ Experimenting with new tools and frameworks
+- 💡 Exploring NLP and Computer Vision projects
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 🏆 Achievements & Badges
 
-## 🏆 Achievements
+![Python Badge](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ML Enthusiast](https://img.shields.io/badge/ML-Enthusiast-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data-Science-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Open Source Lover](https://img.shields.io/badge/Open-Source-Lover-FF6F00?style=for-the-badge&logo=github&logoColor=white)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=MrMaxbmb&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+## 💡 Fun Facts
+
+- 🎯 I love solving puzzles and coding challenges
+- 🌍 Exploring the world of AI and its applications
+- 📖 Always reading about the latest in tech
+- ⚡ Fun fact: I can code for hours with just coffee!
+
+## 🎨 ASCII Art
+
+```
+   _____
+  /     \
+ /  O O  \
+|    ^    |
+ \  ---  /
+  \_____/
+   |   |
+   |   |
+  /     \
+ /       \
+```
+
+*Thanks for visiting! Keep coding! 🚀*
+
 
 ## 🌍 Where to find me
 
