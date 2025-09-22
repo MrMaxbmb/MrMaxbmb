@@ -9,6 +9,10 @@ Welcome to my page! I'm a student at BMSTU (Bauman Moscow State Technical Univer
 
 My main programming language is Python, which I use for machine learning and data science. I'm familiar with both classical methods (linear and logistic regression, gradient boosting, KNN, Random Forest, naive Bayes, decision trees, SVM, etc.) and deep learning models (neural networks, CNNs, RNNs, transformers, LLMs like GPT, BERT for NLP, and attention mechanisms). I use Google Colab and other tools to train models. I've also participated in Kaggle competitions.
 
+## 🌍 Where to find me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@maxbmb) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bazdrev.max@mail.com)
+
 ## 💻 List of technologies
 
 ### Programming Languages
@@ -101,6 +105,4 @@ My main programming language is Python, which I use for machine learning and dat
 </div>
 
 
-## 🌍 Where to find me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@maxbmb) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bazdrev.max@mail.com)
